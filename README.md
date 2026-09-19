@@ -8,7 +8,7 @@
 
 <br clear="left" />
 
-- 🎓 Bachelor's in Applied Computer Science, currently pursuing a Master's in Electronics
+- 🎓 Bachelor's in Applied Computer Science @KdG, currently pursuing a Master's in Electronics engineering @Ugent
 - 💻 Full-stack developer from Belgium
 
 ### 🧰 Things I code with
