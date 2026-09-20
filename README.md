@@ -2,7 +2,7 @@
 
 ### Hi, I'm Pieter 👋
 
-<img src="assets/motto.svg" alt="if it works, don't touch it" />
+<img src="assets/motto.svg" alt="software engineer @ VLRetail" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/pieter-neyt/)
 
